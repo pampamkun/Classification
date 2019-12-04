@@ -1,5 +1,5 @@
 # Classification
-## This section is for classification codes using sklearn and librosa
+## This section is where i put schoolar treasures for classification codes using sklearn and librosa
 ## WE USE TESS datasets
 ## FOR DEFAULT USAGE, WE FOLLOW THE FORMAT OF TESS
 ## NAME THE FOLDERS AS DATASET_
